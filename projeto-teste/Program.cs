@@ -5,7 +5,9 @@ namespace projeto_teste {
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Ola Mundo!");
+            Console.WriteLine("Bom dia");
+            Console.WriteLine("Como voce esta?");
             Console.ReadLine();
 
 
